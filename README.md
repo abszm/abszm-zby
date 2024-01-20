@@ -9,5 +9,4 @@
 
 ### 免费加速接口：
 
-[abszm.todemo.xyz]: abszm.todemo.xyz
-
+[]: abszm.todemo.xyz	"abszm.todemo.xyz"
