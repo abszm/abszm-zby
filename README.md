@@ -18,4 +18,5 @@
    ------
 
 ### 加速接口：
-abszm.todemo.xyz
+https://gh-proxy.abszm.online（备用）
+abszm.todemo.xyz（马上到期）
