@@ -55,46 +55,6 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010054/
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010219/
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010062/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010064/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010065/
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010067/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健身运动
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010147/
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010062/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010064/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010065/
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",SITV纪实人文
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010067/
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健身运动
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010147/
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
@@ -157,42 +117,36 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010054/
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010219/
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京纪实科教
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京纪实科教
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",SITV纪实人文
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016545/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268002/
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",SITV纪实人文
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010282/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SITV东方财经
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SITV金色学堂
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SITV都市剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SITV乐游
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SITV动漫秀场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",SITV游戏风云
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",SITV哈哈炫动
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湖南茶频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
@@ -201,21 +155,10 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级体育
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健身运动
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/
+
