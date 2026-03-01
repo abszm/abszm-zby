@@ -21,4 +21,4 @@ http://epg.51zmt.top:8000/
    ------    ------   ------
 
 ### 加速接口：
-https://gh-proxy.abszm.online
+https://gh-proxy.rwrl.net
